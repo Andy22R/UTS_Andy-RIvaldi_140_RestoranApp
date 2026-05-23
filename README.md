@@ -104,8 +104,10 @@ Tema dark mode menggunakan kombinasi warna hitam dan orange agar tetap konsisten
 
 1. Home Screen tampilan dark mode
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/8f0f6786-1942-4b17-8f8a-c7c7f5262919" />
+
 2. Menu Screen tampilan dark mode
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/d2f6fd9a-d56f-4df2-85e0-83d482d46410" />
+
 3. Profile Screen
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/0e22dbfe-85e9-4f87-9a90-59920fa54680" />
 
