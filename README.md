@@ -26,11 +26,14 @@ Tampilan dibuat modern menggunakan card, gradient, dan bottom navigation agar le
 3. Menu Screen
    
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/19deb239-3bdd-4ce0-8881-3a5c80e4e6a2" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a635d303-8446-469b-8ea0-61cd211dbb57" />
 
 Halaman menu menampilkan daftar makanan dan minuman khas Nusantara seperti:
 
 Nasi Goreng Spesial
 Ayam Bakar Madu
+Es Teh Nusantara
+Kopi Aren
 
 Setiap menu memiliki:
 
