@@ -10,7 +10,7 @@ Aplikasi ini dibuat dengan konsep UI modern menggunakan Material 3, dark mode, a
 Halaman splash screen tampil saat aplikasi pertama kali dibuka.
 Menampilkan logo restoran “Rasa Nusantara” dengan desain modern berwarna orange serta animasi sederhana untuk memberikan kesan premium pada aplikasi.
 
-3. Home Screen (Light Mode)
+2. Home Screen (Light Mode)
    
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/8aa43792-0e14-484b-9373-f3e71b4300b0" />
 
