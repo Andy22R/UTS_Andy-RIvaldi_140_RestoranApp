@@ -26,7 +26,8 @@ Tampilan dibuat modern menggunakan card, gradient, dan bottom navigation agar le
 3. Menu Screen
    
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/19deb239-3bdd-4ce0-8881-3a5c80e4e6a2" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/a635d303-8446-469b-8ea0-61cd211dbb57" />
+<img width="300" alt="WhatsApp Image 2026-05-23 at 12 58 08" src="https://github.com/user-attachments/assets/86bb817f-b8e3-4064-9128-0292d579aa85" />
+
 
 Halaman menu menampilkan daftar makanan dan minuman khas Nusantara seperti:
 
